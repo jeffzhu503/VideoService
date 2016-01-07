@@ -1,0 +1,3 @@
+#AWS access ID and key
+AWS_ACCESS_ID = 'AKIAJ6DLWSW52NGKCFDQ'
+AWS_ACCESS_KEY = 'zk27RwCbfBGYleDTkfMEi1Z/QwIf+qouParRkf7n' 
